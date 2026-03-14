@@ -1,0 +1,38 @@
+.app-shell {
+  min-height: 100vh;
+  position: relative;
+  background: #050816;
+  overflow-x: hidden;
+}
+
+.aurora-background {
+  position: fixed;
+  inset: 0;
+  z-index: -5;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 14% 18%, rgba(83, 96, 255, 0.22), transparent 24%),
+    radial-gradient(circle at 82% 28%, rgba(0, 208, 255, 0.13), transparent 20%),
+    radial-gradient(circle at 70% 80%, rgba(0, 255, 191, 0.08), transparent 18%),
+    radial-gradient(circle at 40% 88%, rgba(255, 162, 58, 0.09), transparent 18%),
+    radial-gradient(circle at 88% 82%, rgba(121, 82, 255, 0.13), transparent 20%),
+    linear-gradient(180deg, #050816 0%, #050817 45%, #040714 100%);
+}
+
+.noise-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: -4;
+  pointer-events: none;
+  opacity: 0.055;
+  background-image: radial-gradient(rgba(255,255,255,0.28) 0.7px, transparent 0.7px);
+  background-size: 6px 6px;
+}
+
+.vignette-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: -3;
+  pointer-events: none;
+  background: radial-gradient(circle at center, rgba(0,0,0,0) 48%, rgba(0,0,0,0.24) 100%);
+}

@@ -1,0 +1,160 @@
+.skills-wrap {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 0.94fr;
+  gap: 22px;
+  align-items: stretch;
+}
+
+.skills-featured {
+  padding: 30px 34px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.skills-mini-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: rgba(190, 197, 216, 0.46);
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+.skills-main-title {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 2.70rem;
+  line-height: 0.98;
+  font-style: italic;
+  font-weight: 600;
+  color: rgba(245, 246, 255, 0.94);
+  margin-bottom: 16px;
+  max-width: 500px;
+}
+
+.skills-main-text {
+  color: rgba(220, 226, 239, 0.68);
+  font-size: 0.95rem;
+  line-height: 1.8;
+  max-width: 560px;
+}
+
+.skills-side {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+.skill-panel {
+  padding: 20px 24px;
+  min-height: 78px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.skill-label {
+  font-size: 0.68rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(190, 197, 216, 0.46);
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.skill-panel h4 {
+  font-size: 1.02rem;
+  line-height: 1.45;
+  color: rgba(245, 247, 252, 0.92);
+  font-weight: 600;
+}
+
+.skill-panel:hover h4 {
+  color: #ffffff;
+}
+
+.soft-skills {
+  margin-top: 34px;
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.soft-title {
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(200, 208, 235, 0.62);
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.soft-skill-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.soft-skill-list span {
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: rgba(240, 245, 255, 0.84);
+  font-size: 0.82rem;
+  font-weight: 500;
+  background: rgba(255, 255, 255, 0.018);
+  transition: all 0.25s ease;
+}
+
+.soft-skill-list span:hover {
+  border-color: rgba(155, 184, 255, 0.25);
+  background: rgba(255, 255, 255, 0.05);
+  transform: translateY(-2px);
+}
+
+@media (max-width: 1100px) {
+  .skills-wrap {
+    grid-template-columns: 1fr;
+    max-width: 100%;
+  }
+
+  .skills-featured {
+    min-height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .skills-featured,
+  .skill-panel {
+    padding: 22px 20px;
+  }
+
+  .skills-main-title {
+    font-size: 2.1rem;
+    max-width: 100%;
+  }
+
+  .skills-main-text {
+    font-size: 0.9rem;
+    line-height: 1.75;
+  }
+
+  .skill-panel h4 {
+    font-size: 0.98rem;
+    line-height: 1.45;
+  }
+
+  .soft-skill-list {
+    gap: 10px;
+  }
+
+  .soft-skill-list span {
+    font-size: 0.78rem;
+    padding: 7px 14px;
+  }
+}
