@@ -14,11 +14,11 @@ function Projects() {
             <div className="project-index-row">
               <span className="project-index">01</span>
               <span className="project-line"></span>
-              <span className="project-label">AI SAAS PLATFORM</span>
+              <span className="project-label">AI RECRUITMENT TOOL</span>
             </div>
 
             <div className="project-title-row">
-              <h3 className="project-title">QwixAi</h3>
+              <h3 className="project-title">Kalon AI Resume Analyzer</h3>
               <a
                 href="https://kalon-ai-resume-analyzer.vercel.app/"
                 target="_blank"
