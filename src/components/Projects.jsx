@@ -18,16 +18,16 @@ function Projects() {
             </div>
 
             <div className="project-title-row">
-  <h3 className="project-title">QwixAi</h3>
-  <a
-    href="https://kalon-ai-resume-analyzer.vercel.app/"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="project-github"
-  >
-    Live Website ↗
-  </a>
-</div>
+              <h3 className="project-title">QwixAi</h3>
+              <a
+                href="https://kalon-ai-resume-analyzer.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-github"
+              >
+                Live Website ↗
+              </a>
+            </div>
 
             <p className="project-date">
               2026 • AI Resume Analysis & Job Matching Platform
@@ -95,16 +95,16 @@ function Projects() {
             </div>
 
             <div className="project-title-row">
-  <h3 className="project-title">QwixAi</h3>
-  <a
-    href="https://github.com/anshikasrivastava3011/QwixAi"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="project-github"
-  >
-    GitHub ↗
-  </a>
-</div>
+              <h3 className="project-title">QwixAi</h3>
+              <a
+                href="https://github.com/anshikasrivastava3011/QwixAi"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-github"
+              >
+                GitHub ↗
+              </a>
+            </div>
 
             <p className="project-date">
               2026 • AI Content Generation SaaS Platform
@@ -172,16 +172,16 @@ function Projects() {
             </div>
 
             <div className="project-title-row">
-  <h3 className="project-title">PrescripWell</h3>
-  <a
-    href="https://github.com/anshikasrivastava3011/PrescripWell"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="project-github"
-  >
-    GitHub ↗
-  </a>
-</div>
+              <h3 className="project-title">PrescripWell</h3>
+              <a
+                href="https://github.com/anshikasrivastava3011/PrescripWell"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-github"
+              >
+                GitHub ↗
+              </a>
+            </div>
 
             <p className="project-date">
               2025 • Doctor Review & Appointment Booking Platform
@@ -248,16 +248,16 @@ function Projects() {
             </div>
 
             <div className="project-title-row">
-  <h3 className="project-title">TravelMate</h3>
-  <a
-    href="https://github.com/anshikasrivastava3011/Personalized-Travel-Recommendation-based-on-user-preferences"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="project-github"
-  >
-    GitHub ↗
-  </a>
-</div>
+              <h3 className="project-title">TravelMate</h3>
+              <a
+                href="https://github.com/anshikasrivastava3011/Personalized-Travel-Recommendation-based-on-user-preferences"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-github"
+              >
+                GitHub ↗
+              </a>
+            </div>
 
             <p className="project-date">
               2025 • Personalized Travel Recommendation Website
