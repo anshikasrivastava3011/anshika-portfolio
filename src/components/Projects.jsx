@@ -24,9 +24,7 @@ function Projects() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="project-github"
-              >
-                Live Website ↗
-              </a>
+              >Live Website ↗</a>
             </div>
 
             <p className="project-date">
