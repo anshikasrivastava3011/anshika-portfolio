@@ -116,7 +116,7 @@ function Projects() {
                 <span>Express</span>
                 <span>PostgreSQL</span>
                 <span>Clerk</span>
-                <span>Gemini API</span>
+                <span>Groq API</span>
               </div>
             </div>
           </div>
@@ -145,7 +145,7 @@ function Projects() {
 
               <div className="point-row">
                 <span className="point-number">02</span>
-                <p>Integrated Google Gemini API for smart content generation workflows.</p>
+                <p>Integrated Groq API for smart content generation workflows.</p>
               </div>
 
               <div className="point-row">
