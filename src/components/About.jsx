@@ -30,6 +30,43 @@ function About() {
             applications that integrate strong backend logic with intuitive user
             interfaces.
           </p>
+
+          <div className="about-skills">
+  <p className="label-text">CORE SKILL SET</p>
+
+  <div className="skill-tags">
+    <span>C</span>
+    <span>C++</span>
+    <span>Java</span>
+    <span>JavaScript</span>
+    <span>Python</span>
+    <span>PHP</span>
+    <span>React.js</span>
+    <span>Node.js</span>
+    <span>Express.js</span>
+    <span>MongoDB</span>
+    <span>MySQL</span>
+    <span>PostgreSQL</span>
+    <span>REST APIs</span>
+    <span>Tailwind CSS</span>
+    <span>HTML</span>
+    <span>CSS</span>
+  </div>
+
+  <p className="label-text skills-subheading">COURSEWORK & CONCEPTS</p>
+
+  <div className="skill-tags">
+    <span>Data Structures</span>
+    <span>Algorithms</span>
+    <span>OOP</span>
+    <span>DBMS</span>
+    <span>Operating Systems</span>
+    <span>Computer Networks</span>
+    <span>Software Engineering</span>
+  </div>
+
+  
+</div>
         </div>
 
         <div className="side-cards">
