@@ -98,10 +98,3 @@
     font-size: 0.95rem;
   }
 }
-.small-card h4 {
-  margin-top: 6px;
-}
-
-.small-card h4:first-of-type {
-  margin-top: 0;
-}
