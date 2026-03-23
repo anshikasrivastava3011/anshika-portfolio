@@ -25,6 +25,12 @@ function Projects() {
                 rel="noopener noreferrer"
                 className="project-github"
               >Live Website ↗</a>
+              <a
+                href="https://github.com/anshikasrivastava3011/kalon-ai-resume-analyzer"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-github"
+              >GitHub ↗</a>
             </div>
 
             <p className="project-date">
