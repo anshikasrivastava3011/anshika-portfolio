@@ -13,9 +13,6 @@ import "./styles/background.css";
 function App() {
   return (
     <div className="app-shell">
-      <div className="aurora-background"></div>
-      <div className="noise-overlay"></div>
-      <div className="vignette-overlay"></div>
 
       <Navbar />
       <Hero />
