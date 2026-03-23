@@ -21,9 +21,9 @@ function Achievements() {
 
           <a
             className="featured-achievement glass-card"
-            href="https://media.licdn.com/dms/image/v2/D562DAQHdtmHgKV_23w/profile-treasury-image-shrink_800_800/B56ZhhmsILHcAg-/0/1753984196042?e=1774047600&v=beta&t=acN7Hc4hf82d3An73Z9eCNf_csoldFhBFnQNEpCVk84"
+            href="/InternshipCertificate.pdf"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             <div className="featured-icon">🏆</div>
 
