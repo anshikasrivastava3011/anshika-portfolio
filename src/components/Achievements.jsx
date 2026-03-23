@@ -203,23 +203,6 @@ function Achievements() {
             </a>
             <a
               className="cert-card glass-card"
-              href="https://www.coursera.org/account/accomplishments/verify/ZGFYOW3TTN3Q"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <div className="cert-top">
-                <span className="cert-source">COURSERA</span>
-                <span className="cert-arrow">↗</span>
-              </div>
-
-              <h4>Computer Communications Specialization</h4>
-
-              <div className="cert-line"></div>
-
-              <p>Nov 2024</p>
-            </a>
-            <a
-              className="cert-card glass-card"
               href="https://www.hackerrank.com/certificates/a80361962ec4"
               target="_blank"
               rel="noreferrer"
@@ -235,41 +218,7 @@ function Achievements() {
 
               <p>Jul 2024</p>
             </a>
-            <a
-              className="cert-card glass-card"
-              href="https://www.coursera.org/account/accomplishments/verify/W53RV6V7AIVF"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <div className="cert-top">
-                <span className="cert-source">COURSERA</span>
-                <span className="cert-arrow">↗</span>
-              </div>
-
-              <h4>TCP/IP and Advanced Topics</h4>
-
-              <div className="cert-line"></div>
-
-              <p>Nov 2024</p>
-            </a>
-
-            <a
-              className="cert-card glass-card"
-              href="https://www.coursera.org/account/accomplishments/verify/FSLFPBW4C8I3"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <div className="cert-top">
-                <span className="cert-source">GOOGLE</span>
-                <span className="cert-arrow">↗</span>
-              </div>
-
-              <h4>The Bits and Bytes of Computer Networking</h4>
-
-              <div className="cert-line"></div>
-
-              <p>Month Year</p>
-            </a>
+            
           </div>
         </div>
       </div>
