@@ -101,6 +101,14 @@ function Projects() {
             <div className="project-title-row">
               <h3 className="project-title">QwixAi</h3>
               <a
+                href="https://qwix-ai.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-github"
+              >
+                Live Website ↗
+              </a>
+              <a
                 href="https://github.com/anshikasrivastava3011/QwixAi"
                 target="_blank"
                 rel="noopener noreferrer"
