@@ -186,6 +186,14 @@ function Projects() {
             <div className="project-title-row">
               <h3 className="project-title">PrescripWell</h3>
               <a
+                href="https://prescrip-well.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-github"
+              >
+                Live Website ↗
+              </a>
+              <a
                 href="https://github.com/anshikasrivastava3011/PrescripWell"
                 target="_blank"
                 rel="noopener noreferrer"
